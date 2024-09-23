@@ -20,7 +20,7 @@
         "backgroundColor": "#ffffff"
       },
       "googleServicesFile": "./google-services.json",
-      "package": "com.koii.finalfirebase"
+      "package": "com.koii.lab5"
     },
     "web": {
       "favicon": "./assets/favicon.png"
