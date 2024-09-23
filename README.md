@@ -22,22 +22,22 @@ bunx expo run:android
 
 ## Key Files and Directories
 
-> components/: Contains reusable UI components.
-> screens/: Contains screen components like ManageScreen.js where the main user management logic is implemented.
-> providers/: Contains context providers like AuthenticatedUserProvider.
-> hooks/: Contains custom hooks like useTogglePasswordVisibility.
-> navigation/: Contains navigation-related files.
-> utils/: Contains utility functions.
+> - components/: Contains reusable UI components.
+> - screens/: Contains screen components like ManageScreen.js where the main user management logic is implemented.
+> - providers/: Contains context providers like AuthenticatedUserProvider.
+> - hooks/: Contains custom hooks like useTogglePasswordVisibility.
+> - navigation/: Contains navigation-related files.
+> - utils/: Contains utility functions.
 
 ## Key Functions and Components
 > ManageScreen.js:
->> addUser: Function to add a new user.
->> deleteUser: Function to delete a user.
->> editUser: Function to edit user details.
->> renderUser: Function to render a user item.
->> setUsers: Function to set the list of users.
->> sortUsers: Function to sort users based on criteria.
->> sortedUsers: State variable holding sorted users.
+> - addUser: Function to add a new user.
+> - deleteUser: Function to delete a user.
+> - editUser: Function to edit user details.
+> - renderUser: Function to render a user item.
+> - setUsers: Function to set the list of users.
+> - sortUsers: Function to sort users based on criteria.
+> - sortedUsers: State variable holding sorted users.
 
 ## Author
 
